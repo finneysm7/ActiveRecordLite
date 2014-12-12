@@ -1,5 +1,7 @@
 # Active Record Lite!
 
-Instructions for the project may be found [here][instructions].
+I made my own version of Active record from rails with ruby. This was one of the assigned projects at app academy.
 
-[instructions]: https://github.com/appacademy/sql-curriculum/blob/master/projects/w3d5-build-your-own-ar.md
+You can find where I built the searchable function, where in my active record [here][where].
+
+[where]: https://github.com/finneysm7/ActiveRecordLite/blob/master/lib/02_searchable.rb
